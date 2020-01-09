@@ -25,6 +25,6 @@ def directors_totals(nds)
      i += 1
    end
    result
-  nil
 end
+
 
